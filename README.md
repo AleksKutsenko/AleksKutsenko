@@ -1,4 +1,4 @@
-### Hi! My name is Aleksey!✨
+### Hi! My name is Aleksey!
 
 <!--
 **AleksKutsenko/AleksKutsenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I have a master's degree in "Electric power systems and networks", but my soul lies to IT, that's why I'm here!
 
-✨**My skills:**
+**My skills:**
 - JavaScript
   - DOM API
   - React (with hooks)
